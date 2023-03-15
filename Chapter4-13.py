@@ -12,6 +12,7 @@ buffet = ('mac and cheese', 'meatloaf', 'BLT', 'chicken tenders',
           'cheese burger')
 for food in buffet:
     print(food)
+print()
 
 #buffet[0] = "taco"
 
