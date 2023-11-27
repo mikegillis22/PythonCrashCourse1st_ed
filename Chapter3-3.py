@@ -6,6 +6,6 @@ Honda motorcycle.”
 """
 
 vehicles= ['rambler', 'pickup truck', 'camper']
-print(f"I miss my {vehicles[0].title()}")
-print(f"A {vehicles[1].title()} would be nice")
-print(f"Someday, I'll get a {vehicles[2].title()}")
+print(f"I miss my {vehicles[0].title()}.")
+print(f"A {vehicles[1].title()} would be nice.")
+print(f"Someday, I'll get a {vehicles[2].title()}.")
