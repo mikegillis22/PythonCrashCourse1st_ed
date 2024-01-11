@@ -12,7 +12,7 @@ first_name = "  mike"
 last_name = "gillis  "
 full_name = first_name + " " + last_name
 print(full_name)
-print(full_name.title()+ " is the best!")
+print(full_name.title()+ " is the best programmer in the world!")
 print(full_name.upper())
 print("Hello, " + full_name.title().lstrip() + "!")
 message = "\tHello, " + full_name.title().strip() + "!"
